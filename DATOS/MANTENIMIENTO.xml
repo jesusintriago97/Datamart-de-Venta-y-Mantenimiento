@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="8" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="10" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">COD_MANTENIMIENTO</Data></Cell>
+			<Cell><Data ss:Type="String">COD_EMPLEADO</Data></Cell>
+			<Cell><Data ss:Type="String">CLIENTE_CEDULA</Data></Cell>
+			<Cell><Data ss:Type="String">MANTENIMIENTO_FECHA_INGRESO</Data></Cell>
+			<Cell><Data ss:Type="String">MANTENIMIENTO_FECHA_SALIDA</Data></Cell>
+			<Cell><Data ss:Type="String">MANTENIMIENTO_SOLUCION</Data></Cell>
+			<Cell><Data ss:Type="String">SERIE_EQUIPO</Data></Cell>
+			<Cell><Data ss:Type="String">MANTENIMIENTO_CONDICION</Data></Cell>
+			<Cell><Data ss:Type="String">MANTENIMIENTO_COSTO</Data></Cell>
+			<Cell><Data ss:Type="String">MANTENIMENTO_DESCRIPCION</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">1719230342</Data></Cell>
+			<Cell><Data ss:Type="String">14/09/2020</Data></Cell>
+			<Cell><Data ss:Type="String">24/09/2020</Data></Cell>
+			<Cell><Data ss:Type="String">Si</Data></Cell>
+			<Cell><Data ss:Type="String">5SR5F6R5G4R64E</Data></Cell>
+			<Cell><Data ss:Type="String"> Defectuoso</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+			<Cell><Data ss:Type="String">Revisión total de equipo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">1317915666</Data></Cell>
+			<Cell><Data ss:Type="String">22/09/2020</Data></Cell>
+			<Cell><Data ss:Type="String">01/10/2020</Data></Cell>
+			<Cell><Data ss:Type="String">No</Data></Cell>
+			<Cell><Data ss:Type="String">4FE54FEAF8FE48</Data></Cell>
+			<Cell><Data ss:Type="String">No enciende</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">11</Data></Cell>
+			<Cell><Data ss:Type="Number">1317818220</Data></Cell>
+			<Cell><Data ss:Type="String">06/10/2020</Data></Cell>
+			<Cell><Data ss:Type="String">16/11/2020</Data></Cell>
+			<Cell><Data ss:Type="String">Si</Data></Cell>
+			<Cell><Data ss:Type="String">HH82AC84AA200A</Data></Cell>
+			<Cell><Data ss:Type="String">Impresora con fallas</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+			<Cell><Data ss:Type="String">Cambio de tinta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1314874168</Data></Cell>
+			<Cell><Data ss:Type="String">29/10/2020</Data></Cell>
+			<Cell><Data ss:Type="String">08/11/2020</Data></Cell>
+			<Cell><Data ss:Type="String">Sí</Data></Cell>
+			<Cell><Data ss:Type="String">9EW89W2E2E00E6</Data></Cell>
+			<Cell><Data ss:Type="String">Daño de disco duro</Data></Cell>
+			<Cell><Data ss:Type="Number">150</Data></Cell>
+			<Cell><Data ss:Type="String">Cambio de disco duro</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">13</Data></Cell>
+			<Cell><Data ss:Type="Number">1458749961</Data></Cell>
+			<Cell><Data ss:Type="String">25/11/2020</Data></Cell>
+			<Cell><Data ss:Type="String">05/12/2020</Data></Cell>
+			<Cell><Data ss:Type="String">No</Data></Cell>
+			<Cell><Data ss:Type="String">F6W5W59FCZ6203</Data></Cell>
+			<Cell><Data ss:Type="String">Defectuoso</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">14</Data></Cell>
+			<Cell><Data ss:Type="Number">1124478965</Data></Cell>
+			<Cell><Data ss:Type="String">27/11/2020</Data></Cell>
+			<Cell><Data ss:Type="String">07/12/2020</Data></Cell>
+			<Cell><Data ss:Type="String">No</Data></Cell>
+			<Cell><Data ss:Type="String">E94R12T5Z320C0</Data></Cell>
+			<Cell><Data ss:Type="String">Procesador quemado</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">1348789954</Data></Cell>
+			<Cell><Data ss:Type="String">29/11/2020</Data></Cell>
+			<Cell><Data ss:Type="String">09/12/2020</Data></Cell>
+			<Cell><Data ss:Type="String">No</Data></Cell>
+			<Cell><Data ss:Type="String">48668SC688SDE8</Data></Cell>
+			<Cell><Data ss:Type="String">Defectuoso</Data></Cell>
+			<Cell><Data ss:Type="Number">25</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
